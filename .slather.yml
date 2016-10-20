@@ -4,5 +4,5 @@ xcodeproj: fh-ios-sdk.xcodeproj
 scheme: FH
 source_directory: fh-ios-sdk
 build_directory: /Users/travis/Library/Developer/Xcode/DerivedData/
-binary_basename: fh-ios-sdk
+binary_basename: FH
 ignore: ../*
