@@ -5,4 +5,7 @@ scheme: FH
 source_directory: fh-ios-sdk
 build_directory: /Users/travis/Library/Developer/Xcode/DerivedData/
 binary_basename: FH
-ignore: ../*
+ignore:
+  - ../*
+  - Pods/*
+  - fh-ios-sdkTests/*
